@@ -1,10 +1,10 @@
 permalink: /:year:month:day/:title
 url: #Your url here
-baseurl: /
+baseurl:
 
 # variables
-name: Your Site Name
-description: Your description here
+name: Tyler's Blog
+description: Financial/Economic Data Science Blog
 google_verification: null
 
 
